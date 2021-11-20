@@ -53,19 +53,19 @@
     <UnityVersion>2020.3.18f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Resources\Scriptes\FinishLineControll.cs" />
-    <Compile Include="Assets\Resources\Scriptes\BlackHoleBar.cs" />
-    <Compile Include="Assets\Resources\Scriptes\InputScreen.cs" />
-    <Compile Include="Assets\Resources\Scriptes\MenuControll.cs" />
-    <Compile Include="Assets\Resources\Scriptes\Popcorn.cs" />
-    <Compile Include="Assets\Resources\Scriptes\HpBar.cs" />
+    <Compile Include="Assets\Resources\Scripts\ShowLevelStars.cs" />
+    <Compile Include="Assets\Resources\Scripts\SkinsUnlock.cs" />
+    <Compile Include="Assets\Resources\Scripts\LevelControll.cs" />
+    <Compile Include="Assets\Resources\Scripts\Hat.cs" />
     <Compile Include="Assets\Resources\Prefab\SoundControll.cs" />
-    <Compile Include="Assets\Resources\Scriptes\Menu.cs" />
-    <Compile Include="Assets\Resources\Scriptes\LevelControll.cs" />
-    <Compile Include="Assets\Resources\Scriptes\Hat.cs" />
-    <Compile Include="Assets\Resources\Scriptes\SkinsUnlock.cs" />
-    <Compile Include="Assets\Resources\Scriptes\FinishLineSystem.cs" />
-    <Compile Include="Assets\Resources\Scriptes\ShowLevelStars.cs" />
+    <Compile Include="Assets\Resources\Scripts\InputScreen.cs" />
+    <Compile Include="Assets\Resources\Scripts\BlackHoleBar.cs" />
+    <Compile Include="Assets\Resources\Scripts\HpBar.cs" />
+    <Compile Include="Assets\Resources\Scripts\Menu.cs" />
+    <Compile Include="Assets\Resources\Scripts\Popcorn.cs" />
+    <Compile Include="Assets\Resources\Scripts\FinishLineControll.cs" />
+    <Compile Include="Assets\Resources\Scripts\FinishLineSystem.cs" />
+    <Compile Include="Assets\Resources\Scripts\MenuControll.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
