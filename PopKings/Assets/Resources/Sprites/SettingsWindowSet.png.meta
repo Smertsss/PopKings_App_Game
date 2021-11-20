@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 554279de538182e4690071fcce786be7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1672300744710240264
+    second: SettingsWindowSet_0
+  - first:
+      213: 6660740159687740002
+    second: SettingsWindowSet_1
+  - first:
+      213: 8742517277947464879
+    second: SettingsWindowSet_2
+  - first:
+      213: 4836877011163893109
+    second: SettingsWindowSet_3
+  - first:
+      213: 8793426346870464762
+    second: SettingsWindowSet_4
+  - first:
+      213: -901088797496828170
+    second: SettingsWindowSet_5
+  - first:
+      213: 2562973890150363780
+    second: SettingsWindowSet_6
+  - first:
+      213: -5404581960128844084
+    second: SettingsWindowSet_7
+  - first:
+      213: 6829650686498683284
+    second: SettingsWindowSet_8
+  - first:
+      213: 3543618596743127986
+    second: SettingsWindowSet_9
+  - first:
+      213: 2134447532181403860
+    second: SettingsWindowSet_10
+  - first:
+      213: -7226951014707331327
+    second: SettingsWindowSet_11
+  - first:
+      213: -6363617794254583165
+    second: SettingsWindowSet_12
+  - first:
+      213: 2556577459796005160
+    second: SettingsWindowSet_13
+  - first:
+      213: 5819494998219209794
+    second: SettingsWindowSet_14
+  - first:
+      213: 2733702071117583567
+    second: SettingsWindowSet_15
+  - first:
+      213: 2185099202972522526
+    second: SettingsWindowSet_16
+  - first:
+      213: 3292195937084556616
+    second: SettingsWindowSet_17
+  - first:
+      213: -5398881298837604179
+    second: SettingsWindowSet_18
+  - first:
+      213: -1275372522481168268
+    second: SettingsWindowSet_19
+  - first:
+      213: 7464550735563730351
+    second: SettingsWindowSet_20
+  - first:
+      213: -251167189831941293
+    second: SettingsWindowSet_21
+  - first:
+      213: 3707345080782943377
+    second: SettingsWindowSet_22
+  - first:
+      213: -6826254252586075985
+    second: SettingsWindowSet_23
+  - first:
+      213: 528294396255456436
+    second: SettingsWindowSet_24
+  - first:
+      213: 5263476772154704821
+    second: SettingsWindowSet_25
+  - first:
+      213: 7061341347153062133
+    second: SettingsWindowSet_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SettingsWindowSet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 657
+        height: 915
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083316caa4353710800000000000000
+      internalID: 1672300744710240264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 725
+        width: 64
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26acd5792e3bf6c50800000000000000
+      internalID: 6660740159687740002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 881
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac06caf429a35970800000000000000
+      internalID: 8742517277947464879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_3
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 881
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4da8c30a002340800000000000000
+      internalID: 4836877011163893109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 646
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af066c34ca6880a70800000000000000
+      internalID: 8793426346870464762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 661
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1e1a4380be73f0800000000000000
+      internalID: -901088797496828170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 661
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48273038c23819320800000000000000
+      internalID: 2562973890150363780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 658
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce290b87511ff4b0800000000000000
+      internalID: -5404581960128844084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 519
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b1c44d1bc7ce50800000000000000
+      internalID: 6829650686498683284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_9
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 546
+        width: 384
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a75eb6567d2130800000000000000
+      internalID: 3543618596743127986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 451
+        width: 195
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b163c8b41f9d10800000000000000
+      internalID: 2134447532181403860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 473
+        width: 301
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f78379756b4bb90800000000000000
+      internalID: -7226951014707331327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_12
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 460
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac91ff453efa7a0800000000000000
+      internalID: -6363617794254583165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 375
+        width: 175
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82159e387a9ca7320800000000000000
+      internalID: 2556577459796005160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 359
+        width: 215
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f84e20125315b0800000000000000
+      internalID: -5398881298837604179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_19
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 299
+        width: 157
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4705731b277fc4ee0800000000000000
+      internalID: -1275372522481168268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_21
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 291
+        width: 321
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35385d685cca38cf0800000000000000
+      internalID: -251167189831941293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 23
+        width: 606
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f826daea8ceef160800000000000000
+      internalID: 7061341347153062133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsWindowSet_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 819
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb40d2edff2c050800000000000000
+      internalID: 5819494998219209794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
