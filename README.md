@@ -1,4 +1,6 @@
-<img width="315" height="250" alt="Image_2" src="https://github.com/user-attachments/assets/e51afc63-fc3f-46ab-972f-e76efa805032" />
+<div align="center">
+  <img width="315" height="250" alt="Image_2" src="https://github.com/user-attachments/assets/e51afc63-fc3f-46ab-972f-e76efa805032" />
+</div>
 
 # 🎮 Popkings
 
@@ -25,14 +27,19 @@
 
 ## 📸 Скриншоты
 
-| Главный экран | Игровой процесс | Победа |
+| Главный экран | Выбор скинов | Игровой процесс |
 |---------------|-----------------|--------|
-| ![Главный экран](https://github.com/user-attachments/assets/7fcdb48d-4133-4f39-aa4c-b57977f0e785) | 
-![Выбор уровня](https://github.com/user-attachments/assets/ff225f3d-c480-4d3d-a8d7-28db6daab162) | 
-![Геймплей](https://github.com/user-attachments/assets/81da466a-4a44-4d89-93a8-5d44126548ec) | 
-![Геймплей](https://github.com/user-attachments/assets/025c14a2-570a-4d99-9d7c-ddc2194743ef) | 
-![Геймплей](https://github.com/user-attachments/assets/1b1e7a16-e5ab-449b-ab1c-e1cb7ad3d9a8) | 
-![Выбор скина](https://github.com/user-attachments/assets/6f2f3452-e0d6-4c71-a0e2-253c33b97f7b) |
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/user-attachments/assets/7fcdb48d-4133-4f39-aa4c-b57977f0e785" width="200" height="400" onclick="window.open(this.src)" style="cursor:pointer;"></td>
+<td><img src="https://github.com/user-attachments/assets/ff225f3d-c480-4d3d-a8d7-28db6daab162" width="200" height="400" onclick="window.open(this.src)" style="cursor:pointer;"></td>
+<td><img src="https://github.com/user-attachments/assets/81da466a-4a44-4d89-93a8-5d44126548ec" width="200" height="400" onclick="window.open(this.src)" style="cursor:pointer;"></td>
+<td><img src="https://github.com/user-attachments/assets/025c14a2-570a-4d99-9d7c-ddc2194743ef" width="200" height="400" onclick="window.open(this.src)" style="cursor:pointer;"></td>
+<td><img src="https://github.com/user-attachments/assets/1b1e7a16-e5ab-449b-ab1c-e1cb7ad3d9a8" width="200" height="400" onclick="window.open(this.src)" style="cursor:pointer;"></td>
+<td><img src="https://github.com/user-attachments/assets/6f2f3452-e0d6-4c71-a0e2-253c33b97f7b" width="200" height="400" onclick="window.open(this.src)" style="cursor:pointer;"></td>
+</tr>
+</table>
 
 ---
 
@@ -44,8 +51,9 @@
 
 ---
 
-## 📥 Скачать
+## 📥 Установка
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Скачать-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=ваш.package.name)
-
-> *Добавьте ссылку после публикации в Google Play*
+1. Скачайте APK-файл на свой телефон
+2. Откройте файл и разрешите установку из неизвестных источников (если потребуется)
+3. Установите игру
+4. Наслаждайтесь игрой! 🎮
